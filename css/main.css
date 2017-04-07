@@ -1,20 +1,16 @@
 .navbar-brand:first-letter {
-    color: forestgreen;
-    font-size: 1.25em;
+  color: forestgreen;
+  font-size: 1.25em;
 }
-
 div[class="container"] {
-    min-width: 220px;
+  min-width: 220px;
 }
-
 a[class="nav-link"] {
-    font-size: larger;
+  font-size: larger;
 }
-
 .footer {
-    text-align: right;
+  text-align: right;
 }
-
 .info-card {
   margin: 1em auto;
 }
